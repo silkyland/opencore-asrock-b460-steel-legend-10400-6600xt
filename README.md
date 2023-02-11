@@ -1,7 +1,6 @@
 # OpenCore 0.8.8 Hackintosh Success on ASRock B460 Steel Legend
 
-<!-- screenshot -->
-![Screenshot](https://raw.githubusercontent.com/kevinshroff/ASRock-B460-Steel-Legend-Hackintosh/main/screenshot.png)
+[![Screenshot](https://raw.githubusercontent.com/kevinshroff/ASRock-B460-Steel-Legend-Hackintosh/main/screenshot.png)](https://github.com/silkyland/opencore-asrock-b460-steel-legend-10400-6600xt/blob/main/screenshot.png)
 
 This guide outlines the steps I took to successfully install and run MacOS Ventura (13.2) on my ASRock B460 Steel Legend motherboard with an Intel Core i5 10400 processor and an RX 6600 XT 8GB graphics card.
 
